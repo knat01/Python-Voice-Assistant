@@ -1,6 +1,12 @@
 # Python-Voice-Assistant
 User-interactive python program.
 
+Python program that uses voice recognition and text-to-speech modules to input and understand audio information. 
+
+This information is recieved and processed by the function speechtext()
+
+The other function used is the text-to-speech function which processes a voice output to the primary speakers.
+
 To run the program the user must first :
 ```
 pip install PyAudio
