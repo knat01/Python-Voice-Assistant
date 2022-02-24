@@ -9,7 +9,7 @@ pip install SpeechRecognition
 ```
 
 To interact with the Voice Assistant, run the program and say "Hey Peter" into your primary microphone.
-On processing the information the voice assistant responds.
+On processing the information the voice assistant responds through your system's primary speakers.
 
 The voice assistant Peter responds to the following voice-prompts:
 
